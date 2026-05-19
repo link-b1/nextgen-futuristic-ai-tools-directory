@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI - Premium AI Directory",
+  "description": "A futuristic directory for the world's most powerful AI tools, featuring a modern dark UI and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
